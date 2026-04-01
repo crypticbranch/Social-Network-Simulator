@@ -12,18 +12,6 @@ It supports **friend recommendations**, **degrees of separation**, **post manage
 
 ## **Compilation and Execution**
 
-### **Build Script**
-
-We provide a shell script `run.sh` to compile and execute the program.
-
-```bash
-#!/bin/bash
-g++ -std=c++17 main.cpp -o socialnet
-./socialnet
-```
-
----
-
 ### **Usage Instructions**
 
 #### **1. Open a terminal in your project folder**
